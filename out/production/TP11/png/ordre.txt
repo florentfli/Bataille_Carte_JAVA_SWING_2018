@@ -1,0 +1,4 @@
+C = trefle = 1
+D = diamand = 2
+S = pique = 3
+H = heart = 4
